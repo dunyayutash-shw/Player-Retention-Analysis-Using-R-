@@ -40,6 +40,8 @@ finding key factors effecting player engagement and making insights that can sup
 ## Repository structure 
 Player-Rentention-Analysis-using-R
 |
-|___ README.md
-|___
+|___ [README.md](README.md).
+|
+## R Script
+the analtsis code is in [SCRIPT.R](SCRIPT.R).
 
