@@ -48,6 +48,8 @@ Player-Rentention-Analysis-using-R
 ## R Script
 the analysis code is in [SCRIPT.R](SCRIPT.R).
 
+ ## Visualizations
+ ![ Engagement level plot](Rplot02(2).png)
 
 
 
