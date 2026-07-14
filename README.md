@@ -43,5 +43,7 @@ Player-Rentention-Analysis-using-R
 |___ [README.md](README.md).
 |
 ## R Script
-the analtsis code is in [SCRIPT.R](SCRIPT.R).
+the analysis code is in [SCRIPT.R](SCRIPT.R).
+
+
 
